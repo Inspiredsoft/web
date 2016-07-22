@@ -1,5 +1,5 @@
 /*******************************************************************************
-* Inspired Model Exporter is a framework to export data from pojo class.
+* Inspired Web is a framework containing several web utilities.
 * Copyright (C) 2016 Inspired Soft
 * 
 * This program is free software: you can redistribute it and/or modify
